@@ -4,4 +4,4 @@ I explored different approaches to structuring and styling the calendar, includi
 Using React components to build a flexible and reusable schedule
 Implementing props to pass event details dynamically
 Applying conditional styling to differentiate event types by color
-Structuring the layout with HTML table elements (<table>, <tr>, <td>)
+Structuring the layout with HTML table elements.
