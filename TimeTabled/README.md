@@ -5,3 +5,5 @@ Using React components to build a flexible and reusable schedule
 Implementing props to pass event details dynamically
 Applying conditional styling to differentiate event types by color
 Structuring the layout with HTML table elements.
+
+![image](https://github.com/user-attachments/assets/b794ce7f-dbe3-46d3-884a-59e5945d3f69)
