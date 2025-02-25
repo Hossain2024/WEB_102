@@ -1,2 +1,2 @@
 # WEB_102
-WEB_102_Assignments
+This Repository contains the labs I did during my Web_Developement Code 
