@@ -1,8 +1,7 @@
-# React + Vite
+For this project, I created a one-week calendar that includes one-hour time blocks to plan events dynamically. The calendar is designed to display different events with unique titles and colors based on their type.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I explored different approaches to structuring and styling the calendar, including:
+Using React components to build a flexible and reusable schedule
+Implementing props to pass event details dynamically
+Applying conditional styling to differentiate event types by color
+Structuring the layout with HTML table elements (<table>, <tr>, <td>)
