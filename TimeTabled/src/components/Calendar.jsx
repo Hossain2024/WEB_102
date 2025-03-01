@@ -22,7 +22,7 @@ const Calendar = () => {
                     <Event event = 'Fancy Dinner 🎩' color = 'green' />
                     <td></td>
                     <td></td>
-                    <td></td>
+                    <Event event='Exercise' color ='pink'/>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -39,7 +39,7 @@ const Calendar = () => {
                 </tr>
                 <tr>
                     <td className="time">10 am</td>
-                    <td></td>
+                    <Event event='Exercise' color ='pink'/>
                     <td></td>
                     <td></td>
                     <Event event='class party🎉' color ='blue'/>
@@ -55,7 +55,7 @@ const Calendar = () => {
                     <td></td>
                     <Event event='Yolk 🍳' color ='pink'/>
                     <td></td>
-                    <td></td>
+                    <Event event='Family Time' color ='green'/>
                 </tr>
                 <tr>
                     <td className="time">12 pm</td>
@@ -80,11 +80,11 @@ const Calendar = () => {
                 <tr>
                     <td className="time">2 pm</td>
                     <td></td>
+                    <Event event='Exercise' color ='pink'/>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <Event event='Study' color ='purple'/>
                     <td></td>
                 </tr>
                 <tr>
@@ -93,9 +93,9 @@ const Calendar = () => {
                     <td></td>
                     <td></td>
                     <td></td>
+                    <Event event='Cook dish👨‍🍳' color ='blue'/>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <Event event='Read' color ='purple'/>
                 </tr>
                 <tr>
                     <td className="time">4 pm</td>
@@ -105,7 +105,7 @@ const Calendar = () => {
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
+                    <Event event='Exercise' color ='pink'/>
                 </tr>
                 <tr>
                     <td className="time">5 pm</td>
